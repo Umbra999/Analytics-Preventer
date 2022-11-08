@@ -15,3 +15,7 @@ Supported Websites/Games:
 - Common Analytics & Spyware
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
+
+If you only want to Block specific Url's feel free to modify the Blocklist for yourself or edit your host manually.
+
+If i missed anything or something got broken feel free to create an Issue.
