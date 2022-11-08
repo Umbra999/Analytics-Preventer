@@ -31,12 +31,9 @@ namespace AnalyticsPreventer
             "log-upload-os.mihoyo.com",
             // Redshell 
             "api.gameanalytics.com",
-            "gameanalytics.com",
             "files.facepunch.com",
             "in.treasuredata.com",
-            "treasuredata.com",
             "api.redshell.io",
-            "redshell.io",
             "rubick.gameanalytics.com",
             // Just Cause
             "nelo2-col.nhncorp.jp",
@@ -54,6 +51,10 @@ namespace AnalyticsPreventer
             "5fs-crashify.s3-accelerate.amazonaws.com",
             // China Analytics
             "crashlogs.woniu.com",
+            // Microsoft
+            "vortex.data.microsoft.com",
+            // Razer 
+            "kinesis.us-east-1.amazonaws.com"
 
         };
 
