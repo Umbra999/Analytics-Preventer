@@ -8,7 +8,8 @@ Supported Websites/Games:
 - Genshin Impact
 - VRChat
 - Just Cause 3
-- GOG Galaxy
-- Google (unfinished)
+- GOG Galaxy Client
+- Google (Half finished)
+- Steam Client (Half finished)
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
