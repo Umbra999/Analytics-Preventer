@@ -13,6 +13,7 @@ Supported Websites/Games:
 - Steam Client (Half finished)
 - Warhammer Vermintide 2
 - Common Analytics & Spyware
+- Discord (Half finished)
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
 
