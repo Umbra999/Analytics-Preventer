@@ -1,0 +1,3 @@
+﻿using AnalyticsPreventer;
+
+Main.Load();

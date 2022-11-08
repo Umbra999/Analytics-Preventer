@@ -1,0 +1,2 @@
+C:\Users\Umbra\source\repos\AnalyticsPreventer\AnalyticsPreventer\bin\Release\net6.0\publish\win-x64\AnalyticsPreventer.pdb
+C:\Users\Umbra\source\repos\AnalyticsPreventer\AnalyticsPreventer\bin\Release\net6.0\publish\win-x64\AnalyticsPreventer.exe
