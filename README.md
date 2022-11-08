@@ -9,9 +9,11 @@ Supported Websites/Games:
 - VRChat
 - Just Cause 3
 - GOG Galaxy Client
-- Google (Half finished)
-- Steam Client (Half finished)
+- Google
+- Steam Client
 - Warhammer Vermintide 2
+- Razer
+- Microsoft
 - Common Analytics & Spyware
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
