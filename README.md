@@ -7,5 +7,8 @@ Supported Websites/Games:
 - Redshell
 - Genshin Impact
 - VRChat
+- Just Cause 3
+- GOG Galaxy
+- Google (unfinished)
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
