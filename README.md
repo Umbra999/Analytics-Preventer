@@ -11,6 +11,7 @@ Supported Websites/Games:
 - GOG Galaxy Client
 - Google (Half finished)
 - Steam Client (Half finished)
-- Common Analytics
+- Warhammer Vermintide 2
+- Common Analytics & Spyware
 
 THIS LIST IS NOT COMPLETED! IT MIGHT ALSO WORK ON OTHER GAMES WHICH USE THE SAME API!
