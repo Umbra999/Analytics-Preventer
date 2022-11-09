@@ -12,7 +12,6 @@ Supported Websites/Games:
 - Google
 - Steam Client
 - Warhammer Vermintide 2
-- Razer
 - Microsoft
 - Common Analytics & Spyware
 
