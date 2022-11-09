@@ -53,8 +53,6 @@ namespace AnalyticsPreventer
             "crashlogs.woniu.com",
             // Microsoft
             "vortex.data.microsoft.com",
-            // Razer 
-            "kinesis.us-east-1.amazonaws.com"
 
         };
 
