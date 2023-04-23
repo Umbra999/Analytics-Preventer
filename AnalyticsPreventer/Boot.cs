@@ -1,10 +1,10 @@
-﻿using System;
+﻿using System.Diagnostics;
 using System.Net;
 using System.Security.Principal;
 
 namespace AnalyticsPreventer
 {
-    internal class Main
+    internal class Boot
     {
         private static readonly string[] Blocklist = new string[]
         {
@@ -53,23 +53,41 @@ namespace AnalyticsPreventer
             "crashlogs.woniu.com",
             // Microsoft
             "vortex.data.microsoft.com",
-
+            // Labymod 
+            "issue.labymod.net",
+            // Rec Room
+            "gamelogs.rec.net",
+            "datacollection.rec.net",
+            "bugreporting.rec.net",
+            "commerce.rec.net",
+            "notify.bugsnag.com",
         };
 
-        public static void Load()
+        public static void Main()
         {
             Console.Title = "Analytics Prevention | By Umbra";
-            if (!new WindowsPrincipal(WindowsIdentity.GetCurrent()).IsInRole(WindowsBuiltInRole.Administrator))
+
+            WindowsIdentity identity = WindowsIdentity.GetCurrent();
+            WindowsPrincipal principal = new WindowsPrincipal(identity);
+            if (!principal.IsInRole(WindowsBuiltInRole.Administrator))
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Run the Program as Administrator to make it Work");
-                Thread.Sleep(5000);
+
+                ProcessStartInfo startInfo = new()
+                {
+                    FileName = Environment.GetCommandLineArgs()[0],
+                    UseShellExecute = true,
+                    Verb = "runas",
+                    Arguments = "/runas"
+                };
+
+                Process.Start(startInfo);
                 return;
             }
 
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($"Press Enter to Block analytics");
+            Console.WriteLine($"Press Enter to Block analytics permanent");
             Console.ReadLine();
+
             BlockAnalytics();
         }
 
