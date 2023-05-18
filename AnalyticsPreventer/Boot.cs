@@ -9,9 +9,13 @@ namespace AnalyticsPreventer
         private static readonly string[] Blocklist = new string[]
         {
             // VRChat
+            "*.amplitude.com",
             "api.amplitude.com",
             "api2.amplitude.com",
             "cdn.amplitude.com",
+            "api.lab.amplitude.com",
+            "api3.amplitude.com",
+            "api.eu.amplitude.com",
             // Unity
             "api.uca.cloud.unity3d.com",
             "config.uca.cloud.unity3d.com",
