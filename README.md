@@ -5,4 +5,4 @@ If you only want to Block specific Url's feel free to modify the Blocklist for y
 
 If i missed anything or something got broken feel free to create an Issue.
 
-Requirements: NET Framework 7.0 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+Requirements: NET 7.0 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
