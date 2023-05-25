@@ -55,6 +55,7 @@ namespace AnalyticsPreventer
             "5fs-crashify.s3-accelerate.amazonaws.com",
             // China Analytics
             "crashlogs.woniu.com",
+            "crashlytics.com",
             // Microsoft
             "vortex.data.microsoft.com",
             // Labymod 
@@ -65,6 +66,13 @@ namespace AnalyticsPreventer
             "bugreporting.rec.net",
             "commerce.rec.net",
             "notify.bugsnag.com",
+            // Facebook
+            "*.oculuscdn.com",
+            "oculuscdn.com",
+            "*.oculus.com",
+            "fbcdn.com",
+            "fbsbx.com",
+            "facebook-hardware.com"
         };
 
         public static void Main()

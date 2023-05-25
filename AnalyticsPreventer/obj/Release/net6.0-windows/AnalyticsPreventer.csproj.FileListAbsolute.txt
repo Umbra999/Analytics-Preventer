@@ -1,0 +1,15 @@
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\bin\Release\net6.0-windows\AnalyticsPreventer.exe
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\bin\Release\net6.0-windows\AnalyticsPreventer.deps.json
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\bin\Release\net6.0-windows\AnalyticsPreventer.runtimeconfig.json
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\bin\Release\net6.0-windows\AnalyticsPreventer.dll
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\bin\Release\net6.0-windows\AnalyticsPreventer.pdb
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.csproj.AssemblyReference.cache
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.AssemblyInfoInputs.cache
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.AssemblyInfo.cs
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.csproj.CoreCompileInputs.cache
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.dll
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\refint\AnalyticsPreventer.dll
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.pdb
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\AnalyticsPreventer.genruntimeconfig.cache
+D:\Github Repos\Analytics-Preventer\AnalyticsPreventer\obj\Release\net6.0-windows\ref\AnalyticsPreventer.dll
