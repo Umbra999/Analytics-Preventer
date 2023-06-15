@@ -47,6 +47,7 @@ namespace AnalyticsPreventer
             "gwent-bi-collector.gog.com",
             // Google
             "stats.g.doubleclick.net",
+            "adservice.google.com",
             // Steam
             "crash.steampowered.com",
             // Solarwinds
@@ -56,8 +57,23 @@ namespace AnalyticsPreventer
             // China Analytics
             "crashlogs.woniu.com",
             "crashlytics.com",
+            "down.anticheatexpert.com",
+            "log-upload-os.hoyoverse.com",
+            "webstatic.hoyoverse.com",
+            "minor-api-os.hoyoverse.com",
+            "abtest-api-data-sg.hoyoverse.com",
+            "sg-public-data-api.hoyoverse.com",
             // Microsoft
             "vortex.data.microsoft.com",
+            "v10.events.data.microsoft.com",
+            "settings-win.data.microsoft.com",
+            "v10.vortex-win.data.microsoft.com",
+            "v20.events.data.microsoft.com",
+            "watson.telemetry.microsoft.com",
+            "web.vortex.data.microsoft.com",
+            "cortana.ai",
+            "*.cortana.ai",
+            "api.cortana.ai",
             // Labymod 
             "issue.labymod.net",
             // Rec Room
@@ -72,7 +88,16 @@ namespace AnalyticsPreventer
             "*.oculus.com",
             "fbcdn.com",
             "fbsbx.com",
-            "facebook-hardware.com"
+            "facebook-hardware.com",
+            // Xbox
+            "cdn.optimizely.com",
+            "*.optimizely.com",
+            "analytics.xboxlive.com",
+            "cdf-anon.xboxlive.com",
+            "settings-ssl.xboxlive.com",
+            // Sea of Thieves
+            "athenaprod.maelstrom.gameservices.xboxlive.com",
+            "e5ed.playfabapi.com"
         };
 
         public static void Main()
