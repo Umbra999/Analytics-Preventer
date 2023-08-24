@@ -9,7 +9,7 @@ namespace AnalyticsPreventer
         private static readonly string[] Blocklist = new string[]
         {
             // VRChat
-            "*.amplitude.com",
+            "amplitude.com",
             "api.amplitude.com",
             "api2.amplitude.com",
             "cdn.amplitude.com",
@@ -28,6 +28,7 @@ namespace AnalyticsPreventer
             "thind-gke-euw.prd.data.corp.unity3d.com",
             "thind-gke-usc.prd.data.corp.unity3d.com",
             "thind-gke-ape.prd.data.corp.unity3d.com",
+            "stats.unity3d.com",
             // DBD
             "gamelogs.live.bhvrdbd.com",
             "rtm.live.dbd.bhvronline.com",
@@ -35,7 +36,6 @@ namespace AnalyticsPreventer
             "log-upload-os.mihoyo.com",
             // Redshell 
             "api.gameanalytics.com",
-            "files.facepunch.com",
             "in.treasuredata.com",
             "api.redshell.io",
             "rubick.gameanalytics.com",
@@ -70,9 +70,10 @@ namespace AnalyticsPreventer
             "v10.vortex-win.data.microsoft.com",
             "v20.events.data.microsoft.com",
             "watson.telemetry.microsoft.com",
+            "watson.events.data.microsoft.com",
             "web.vortex.data.microsoft.com",
+            "mobile.events.data.microsoft.com",
             "cortana.ai",
-            "*.cortana.ai",
             "api.cortana.ai",
             // Labymod 
             "issue.labymod.net",
@@ -83,21 +84,26 @@ namespace AnalyticsPreventer
             "commerce.rec.net",
             "notify.bugsnag.com",
             // Facebook
-            "*.oculuscdn.com",
             "oculuscdn.com",
-            "*.oculus.com",
             "fbcdn.com",
             "fbsbx.com",
             "facebook-hardware.com",
             // Xbox
             "cdn.optimizely.com",
-            "*.optimizely.com",
             "analytics.xboxlive.com",
             "cdf-anon.xboxlive.com",
             "settings-ssl.xboxlive.com",
             // Sea of Thieves
             "athenaprod.maelstrom.gameservices.xboxlive.com",
-            "e5ed.playfabapi.com"
+            "e5ed.playfabapi.com",
+            "playfabapi.com",
+            // Epic Games
+            "et.epicgames.com",
+            "et2.epicgames.com",
+            "udn.epicgames.com",
+            "etsource.epicgames.com",
+            "metrics.ol.epicgames.com",
+            "datarouter.ol.epicgames.com",
         };
 
         public static void Main()
