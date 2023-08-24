@@ -95,8 +95,8 @@ namespace AnalyticsPreventer
             "settings-ssl.xboxlive.com",
             // Sea of Thieves
             "athenaprod.maelstrom.gameservices.xboxlive.com",
-            "e5ed.playfabapi.com",
-            "playfabapi.com",
+            //"e5ed.playfabapi.com", breaks voice chat, only use if voice isnt needed
+            //"playfabapi.com", breaks voice chat, only use if voice isnt needed
             // Epic Games
             "et.epicgames.com",
             "et2.epicgames.com",
